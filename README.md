@@ -1,2 +1,2 @@
 # Machine Learning
- This repository includes general code to solve various machine learning problems.
+ This repository includes general code for specific tasks related to machine learning problems.
